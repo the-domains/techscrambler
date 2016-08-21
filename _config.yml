@@ -1,0 +1,14 @@
+layout_spectrum: 0.945188750512898
+typography_spectrum: 0.6181951970793307
+color:
+  brandStrength: 0.3083095212932676
+  lightness: 0.8881927947513759
+  saturation: 0.03500976483337581
+  rhythmicContrast: 0.3603824188467115
+  brandColors:
+    - '#1A1F2B'
+    - '#30395C'
+    - '#4A6491'
+    - '#85A5CC'
+    - '#D0E4F2'
+name: TechScrambler
